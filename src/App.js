@@ -1,6 +1,5 @@
 import React, {Component} from "react";
 import Navbar from "./components/navbar";
-import Jumbotron from "./components/jumbotron";
 import Wrapper from "./components/wrapper";
 import Card from "./components/card";
 import character from "./character.json";
@@ -42,7 +41,6 @@ class App extends Component {
       score={this.state.score}
       topScore={this.state.topScore}
       />
-      <Jumbotron />
       <Wrapper>
       {this.state.character.map(character => {
         return <Card 

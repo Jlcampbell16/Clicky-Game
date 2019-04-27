@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "./images/Yoshi.png"
+    "image": "./images/Bezo.png"
   },
   {
     "id": 2,
@@ -33,18 +33,18 @@
   },
   {
     "id": 9,
-    "image": "./images/Mushroom.png"
-  },
-  {
-    "id": 10,
     "image": "./images/PrincessPeach.png"
   },
   {
-    "id": 11,
+    "id": 10,
     "image": "./images/Spiny.png"
   },
   {
-    "id": 12,
+    "id": 11,
     "image": "./images/Toad.png"
+  },
+  {
+    "id": 12,
+    "image": "./images/Yoshi.png"
   }
 ]
